@@ -1,8 +1,7 @@
-# React + Vite
+# Mini Cinema
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This website is built with Vite + React and 
+Styles with Tailwindcss.
+And Using Api and Working smoothly
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Mini Cinema - Home - Google Chrome 1_27_2024 9_32_41 AM](https://github.com/akmweb/mini_cinema/assets/150655160/1d909fea-f997-453a-9d3d-1d9306dd1dbd)
